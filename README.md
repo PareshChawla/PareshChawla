@@ -7,7 +7,7 @@ Web Developer and Android Developer
 I am a self motivated hard worker and quick learner. Since the beginning of my journey as a developer, I have had the opportunity to create numerous projects in both web development and android development including web design, develop websites, design android layouts and programming.
 
 * 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [MyPorftolio](pareshchawlaportfolio.vercel.app/)
+* 🖥️  See my portfolio at [MyPorftolio]([pareshchawlaportfolio.vercel.app/](https://pareshchawlaportfolio.vercel.app/))
 * ✉️  You can contact me at [pareshchawla.56@gmail.com](mailto:pareshchawla.56@gmail.com)
 * 🧠  I'm learning Blockchain Development
 * 🤝  I'm open to collaborating on interesting projects.
