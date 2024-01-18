@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paresh Chawla
 =====================================================================================================================================
 
-Web Developer and Android Developer
+React JS Developer
 -----------------------------------
 
 I am a self motivated hard worker and quick learner. Since the beginning of my journey as a developer, I have had the opportunity to create numerous projects in both web development and android development including web design, develop websites, design android layouts and programming.
